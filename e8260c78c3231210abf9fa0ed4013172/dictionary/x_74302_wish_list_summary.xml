@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="866a48fcc3231210abf9fa0ed4013123" extends="task" label="Summary" max_length="40" name="x_74302_wish_list_summary" type="collection"/>
+</database>
